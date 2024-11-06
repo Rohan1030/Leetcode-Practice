@@ -1,3 +1,3 @@
 # Leetcode-Practice
 
-leetcode problem solving in ja
+leetcode problem solving in java
